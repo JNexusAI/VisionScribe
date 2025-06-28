@@ -3,3 +3,4 @@ torch
 Pillow
 requests
 accelerate
+beautifulsoup4

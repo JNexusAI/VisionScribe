@@ -1,0 +1,114 @@
+Image URL: https://en.wikipedia.org/static/images/icons/wikipedia.png
+Caption: the world map with the letters of the countries
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/250px-IBM_logo.svg.png
+Caption: ibm logo
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IBM_CHQ_-_Oct_2014.jpg/250px-IBM_CHQ_-_Oct_2014.jpg
+Caption: a large building
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png
+Caption: a green christmas tree with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/20px-Decrease2.svg.png
+Caption: a pixel heart with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/20px-Decrease2.svg.png
+Caption: a pixel heart with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png
+Caption: a green christmas tree with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png
+Caption: a green christmas tree with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/250px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg
+Caption: a man in a room with a computer
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM360-67AtUmichWithMikeAlexander.jpg/250px-IBM360-67AtUmichWithMikeAlexander.jpg
+Caption: a man sitting at a desk
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Saturn_IB_and_V_Instrument_Unit.jpg/250px-Saturn_IB_and_V_Instrument_Unit.jpg
+Caption: a poster for the saturn v saturn v saturn v, saturn, space travel, space travel, space travel
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/250px-IBM_PC-IMG_7271_%28transparent%29.png
+Caption: a computer with a keyboard and monitor
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/IBMinventions.png/250px-IBMinventions.png
+Caption: a hard disk and a hard drive
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IBM_Beijing%2C_Pangu_Plaza.jpg/250px-IBM_Beijing%2C_Pangu_Plaza.jpg
+Caption: a tall building with a large sign on it
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mira_-_Blue_Gene_Q_at_Argonne_National_Laboratory_-_Skin.jpg/250px-Mira_-_Blue_Gene_Q_at_Argonne_National_Laboratory_-_Skin.jpg
+Caption: a large room with a large mural on the wall
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg/250px-IBM_Q_system_%28Fraunhofer_2%29.jpg
+Caption: a room with a black floor and a black wall
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/IBM_Yorktown_Heights.jpg/250px-IBM_Yorktown_Heights.jpg
+Caption: a large building
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benoit_Mandelbrot%2C_TED_2010.jpg/250px-Benoit_Mandelbrot%2C_TED_2010.jpg
+Caption: a man in a suit and tie sitting on a chair
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/IBM_ads_at_JFK.jpg/250px-IBM_ads_at_JFK.jpg
+Caption: a long hallway with a sign that says it ' s time to go
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ibmaustin_designcamp.jpg/250px-Ibmaustin_designcamp.jpg
+Caption: a group of people sitting in a room
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Watson_Jeopardy_demo.jpg/250px-Watson_Jeopardy_demo.jpg
+Caption: a large room with a lot of people
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png
+Caption: a red and blue pattern on a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png
+Caption: a blue and red flower with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png
+Caption: a blue and white globe with a white background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png
+Caption: a blue and black logo with a white circle
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png
+Caption: the logo for the iceman
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png
+Caption: a blue and white pixel with a small pixel in the middle
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/40px-Wikiversity_logo_2017.svg.png
+Caption: the logo for the university of michigan
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+Caption: a blue pencil with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+Caption: a blue pencil with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png
+Caption: a blue and red flower with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png
+Caption: a gold coin with a cross on it
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Symbol_template_class_pink.svg/20px-Symbol_template_class_pink.svg.png
+Caption: a pink flower with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+Caption: a blue pencil with a black background
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/20px-Industry5.svg.png
+Caption: a black background with a white and red flower
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/20px-Telecom-icon.svg.png
+Caption: a blue square with a white star in the middle
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/20px-Nuvola_apps_ksim.png
+Caption: a computer screen with a green screen
+--------------------
+Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Noun-technology.svg/20px-Noun-technology.svg.png
+Caption: a black background with a white and red flower
+--------------------
